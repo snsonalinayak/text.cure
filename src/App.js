@@ -153,7 +153,7 @@ function App() {
 
     <Router>
 
-      <Navbar title="TextUtils" about="About Us" Mode={mode} toggleMode={toggleMode}/>
+      <Navbar title="TextCure" about="About Us" Mode={mode} toggleMode={toggleMode}/>
      {
        
        <Alert  alert={alert}/>}
